@@ -9,10 +9,8 @@ export function Header(){
             <div>
               <h1>Hi i am Rafael Amorim</h1>
               <h2>Sou um desenvolvedor de software</h2>
-              <p>Amante da tecnologia e entusiasta na programação.
-              Estou em busca da minha primeira oportunidade
-              na área de desenvolvimento/TI, possuo conhecimento em desenvolvimento web, programação, versionamento de código,adoro desafios e tenho 
-              facilidade para lidar com colegas</p>
+              <p>Sou apaixonado por tecnologia e um entusiasta da programação em busca de minha primeira oportunidade na área de desenvolvimento/TI. Possuo sólidos conhecimentos em desenvolvimento web, programação e versionamento de código. Tive contato com diversas linguagens, incluindo Java, JavaScript e C#, e estou sempre disposto a encarar novos desafios.
+Estou ansioso para contribuir com minha dedicação e habilidades em um ambiente profissional, além de ter facilidade em colaborar e trabalhar em equipe.</p>
             </div>
         <Image
               src="/71077121 (1).jpg"
