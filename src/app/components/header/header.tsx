@@ -11,7 +11,7 @@ export function Header(){
               <h2>Sou um desenvolvedor de software</h2>
               <p>Amante da tecnologia e entusiasta na programação.
               Estou em busca da minha primeira oportunidade
-              na área de desenvolvimento/TI, adoro desafios e tenho 
+              na área de desenvolvimento/TI, possuo conhecimento em desenvolvimento web, programação, versionamento de código,adoro desafios e tenho 
               facilidade para lidar com colegas</p>
             </div>
         <Image
